@@ -1,11 +1,11 @@
 # Site settings
-title: HiFeng's Blog
-SEOTitle: HiFeng's Blog_记录学习中的点点滴滴......
-header-img: img/home-bg.jpg
+title: Qmeimei's Blog
+SEOTitle: Qmeimei's Blog | 探索一切，攻克一切
+header-img: img/bg1.png
 email: webmaster@hicairo.com
-description: "HiFeng's Blog_记录学习中的点点滴滴......"
-keyword: "linux,debian,gentoo,ubuntu,redhat,centos,fedora,arch linux,openSuse,shell,bash,database,php,vps,v2ray,xray,vmess,vless,trojan,hysteria,naive,wireguard"
-url: "https://ifeng.hidns.co" # your host, for absolute URL
+description: "Qmeimei's Blog | 探索一切，攻克一切"
+keyword: "网络安全，逆向，CTF，移动安全，无线电安全"
+url: "https://qmeimei10086.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -17,10 +17,8 @@ wechat: false
 #qq_username: 10000
 #weibo_username: ifeng
 #zhihu_username: ifeng
-github_username: hiifeng
-twitter_username: HiaiFeng
-facebook_username: HiaiFeng
-telegram_username: HiaiFeng
+github_username: Qmeimei10086
+
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -77,8 +75,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "好好工作 快乐生活 ... <br> Contact me "
-sidebar-avatar: /img/Hiifeng.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "探索一切，攻克一切 <br> Contact me "
+sidebar-avatar: /img/avatar.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -94,12 +92,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "HiFeng's Blog", href: "http://www.hicairo.com" },
-    { title: "新月的博客", href: "https://blog.a--i.eu.org" },
-    { title: "科技小岛", href: "https://www.kejiland.com" },
-    { title: "耕读博客", href: "https://www.igengdu.com" },
-    { title: "HiDNS Free Domain", href: "https://www.hidoha.net" },
-#    { title: "JiyinYiyong", href: "http://tiye.me/" },
-#    { title: "DHong Say", href: "http://dhong.co" },
-#    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    
   ]
