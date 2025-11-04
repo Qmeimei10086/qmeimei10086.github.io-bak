@@ -1,9 +1,9 @@
 # Site settings
 title: Qmeimei's Blog
-SEOTitle: Qmeimei's Blog | 探索一切，攻克一切
+SEOTitle: Qmeimei's Blog | 探索一切，攻破一切
 header-img: img/bg1.png
 email: webmaster@hicairo.com
-description: "Qmeimei's Blog | 探索一切，攻克一切"
+description: "Qmeimei's Blog | 探索一切，攻破一切"
 keyword: "网络安全，逆向，CTF，移动安全，无线电安全"
 url: "https://qmeimei10086.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
