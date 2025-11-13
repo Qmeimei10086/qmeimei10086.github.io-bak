@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025-11-13-安卓逆向反混淆追踪工具-ZenTracer修复与更新"
+title: "安卓逆向反混淆追踪工具-ZenTracer修复与更新"
 author: "Qmeimei10086"
 header-style: text
 tags:
